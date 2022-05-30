@@ -9,7 +9,7 @@ We get to use multi programming languaes, but when focus on one in duty, we may 
 - Javascript
 - Java
 
-There will be different branched to mantained the info
+There will be different branches to mantained the info
 
 ## First stage
 1. installation and install verification
